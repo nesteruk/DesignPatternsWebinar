@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/composite/composite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/groovy-builder/groovy-builder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/builder/builder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/specification/specification.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maybe-monad/maybe-monad.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/adapter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/PersonJobBuilder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/PersonBuilder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/facet-builders.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/Person.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/PersonAddressBuilder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/PersonBuilder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/Person.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facet-builders/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/boost" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/boost" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
